@@ -16,5 +16,10 @@ namespace GitHubTest
         {
             InitializeComponent();
         }
+
+        public void Test()
+        {
+
+        }
     }
 }
